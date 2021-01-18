@@ -1,0 +1,47 @@
+body {
+  text-align: center;
+  background-image: url("download.jpg");
+  margin-top:250px;
+}
+h1 {
+  style:"color:red";
+  height:100%;
+  width:100%;
+  font-family:serif;
+  font-size:3rem;
+}
+button {
+  margin-top:30px;
+  font-size:2rem;
+  padding:20px 20px 20px 20px;
+
+}
+.K {
+  background-image:url(tom1.png);
+}
+.A {
+  background-image: url(tom2.png);
+}
+.M {
+  background-image: url(tom3.png);
+}
+.A{
+  background-image: url(tom4.png);
+}
+.L {
+  background-image: url(tom2.png);
+}
+.E {
+  background-image: url(tom3.png);
+}
+.S {
+  background-image: url(tom1.png);
+}
+.H {
+  background-image: url(tom2.png);
+}
+footer {
+  text-align:center;
+  margin-top: 200px;
+  font-size: 2rem;
+}
